@@ -40,7 +40,6 @@ if (paperApiVersion.startsWith("1.")) { // use legacy versioning scheme for pre-
 
 dependencies {
     compileOnly(paperDependency)
-    implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
 
     for (lapisDep in lapisDeps) {
         implementation("com.github.LapisDevelop:$lapisDep")
