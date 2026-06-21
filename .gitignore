@@ -1,3 +1,8 @@
+# We'll ignore some extra Gradle things too
+gradle
+gradlew
+gradlew.bat
+
 # MacOS DS_Store files
 .DS_Store
 

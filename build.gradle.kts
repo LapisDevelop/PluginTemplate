@@ -74,7 +74,6 @@ tasks {
     }
 
     processResources {
-        print(pluginPackage)
         val props = mapOf(
             "pluginName" to pluginName,
             "version" to version,
