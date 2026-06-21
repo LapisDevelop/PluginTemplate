@@ -1,0 +1,11 @@
+name: $pluginName
+description: $description
+prefix: $pluginName
+version: $version
+
+main: '${group}.${pluginPackage}.${pluginName}Plugin'
+api-version: $paperApiVersion
+load: $loadType
+
+authors: $authors
+website: $website
