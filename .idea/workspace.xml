@@ -38,6 +38,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -77,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782034346106</updated>
       <workItem from="1782034347512" duration="188000" />
+      <workItem from="1782034617188" duration="96000" />
     </task>
     <servers />
   </component>
